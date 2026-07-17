@@ -152,4 +152,4 @@ elif menu == 'Fale Conosco':
 # --- RODAPÉ NO MENU LATERAL ---
 st.sidebar.markdown("---")
 st.sidebar.caption("⛪ Obra Social - Igreja")
-st.sidebar.markdown("[🔒 Área Administrativa](http://localhost:8502)")
+st.sidebar.markdown("[🔒 Área Administrativa](https://igrejahisai2.streamlit.app/)")
