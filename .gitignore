@@ -1,0 +1,8 @@
+# Arquivo de configuração local (SENHAS)
+.env
+
+# Pastas do Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
