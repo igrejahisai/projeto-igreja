@@ -106,7 +106,7 @@ with tab_pedidos:
                 tel = p.get('telefone')
                 if tel:
                     t_limpo = ''.join(filter(str.isdigit, tel))
-                    st.markdown(f"**📞 Contato:** [{tel}](https://wa.me/55{t_limpo})")
+                    st.markdown(f"**📞 Contato:** [{tel}](https://wa.me/81{t_limpo})")
                 
                 st.write("---")
                 
